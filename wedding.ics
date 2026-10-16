@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Narendran and Kavipriyaa//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:narendran-kavipriyaa-reception-20261119@example.com
+DTSTAMP:20261016T000000Z
+DTSTART:20261119T130000Z
+DTEND:20261119T160000Z
+SUMMARY:Reception - Narendran & Kavipriyaa
+LOCATION:Ponnusamy Mahal, New By-Pass Road, Kilnachipattu, Tiruvannamalai, Tamil Nadu 606611
+DESCRIPTION:Reception from 6:30 PM onwards (India Standard Time).
+END:VEVENT
+BEGIN:VEVENT
+UID:narendran-kavipriyaa-wedding-20261120@example.com
+DTSTAMP:20261016T000000Z
+DTSTART:20261120T033000Z
+DTEND:20261120T050000Z
+SUMMARY:Wedding - Narendran & Kavipriyaa
+LOCATION:Ponnusamy Mahal, New By-Pass Road, Kilnachipattu, Tiruvannamalai, Tamil Nadu 606611
+DESCRIPTION:Wedding ceremony from 9:00 AM to 10:30 AM (India Standard Time).
+END:VEVENT
+END:VCALENDAR
